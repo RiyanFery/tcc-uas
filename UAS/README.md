@@ -187,7 +187,8 @@ OUTPUT :
     python-flask   LoadBalancer   10.96.118.228   <pending>     5000:32731/TCP   20s
 $
 
-![1](1.PNG)
-![1](2.PNG)
+![img](1.PNG)
+
+![img](2.PNG)
 
 URL : https://2886795303-32731-kitek05.environments.katacoda.com/
